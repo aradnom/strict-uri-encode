@@ -27,5 +27,8 @@
 	"devDependencies": {
 		"ava": "*",
 		"xo": "*"
+	},
+	"dependencies": {
+		"babel-preset-env": "^1.7.0"
 	}
 }
